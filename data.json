@@ -1,5 +1,15 @@
 [
     {
+        "title": "Covid Bihar",
+        "type": ["beds", "hospital", "oxygen", "medicine", "doctor"],
+        "link": "https://covidbihar.com/",
+        "tags": [
+            "bihar",
+            "all-districts"
+        ],
+        "comment": "An initiative by 3 NGOs together"
+    },
+    {
         "title": "Hospital beds - Tamil Nadu",
         "link": "https://stopcorona.tn.gov.in/beds.php",
         "tags": [
