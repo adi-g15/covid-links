@@ -1,0 +1,939 @@
+[
+    {
+        "title": "Hospital beds - Tamil Nadu",
+        "link": "https://stopcorona.tn.gov.in/beds.php",
+        "tags": [
+            "tamil nadu",
+            "tamilnadu",
+            "tamil",
+            "tamil-nadu"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Hospital beds - Uttar Pradesh",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/25?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=608520f9039ec95a0fda7f10",
+        "tags": [
+            "uttar-pradesh",
+            "uttarpradesh",
+            "up",
+            "uttar pradesh",
+            "agra",
+            "lucknow",
+            "noida"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "ICUs and ventilator beds - Uttar Pradesh",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/25?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=608520f9039ec95a0fda7f0e",
+        "tags": [
+            "uttar-pradesh",
+            "uttarpradesh",
+            "up",
+            "uttar pradesh",
+            "agra",
+            "lucknow",
+            "noida"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Banglore municipality hospital bed status",
+        "link": "https://bbmpgov.com/chbms/",
+        "tags": [
+            "bangalore",
+            "bengaluru",
+            "karnataka",
+            "karnatak"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Covid bed availability - Bangalore",
+        "link": "https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vS-ipQLaCHZ8id4t4_NHf1FM4vQmBGQrGHAPFzNzJeuuGKsY_It6Tdb0Un_bC9gmig5G2dVxlXHoaEp/pubhtml?gid=1381543057&single=true",
+        "tags": [
+            "bangalore",
+            "bengaluru",
+            "karnataka",
+            "karnatak"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Covid beds - Bhopal",
+        "link": "https://bhopalcovidbeds.in/",
+        "tags": [
+            "bhopal",
+            "madhya pradesh",
+            "madhyapradesh",
+            "madhya-pradesh",
+            "mp"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Thane covid beds availability",
+        "link": "https://covidthane.org/availabiltyOfHospitalBeds.html",
+        "tags": [
+            "thane",
+            "maharashtra"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Hospital beds - Andhra pradesh",
+        "link": "http://dashboard.covid19.ap.gov.in/ims/hospbed_reports/",
+        "tags": [
+            "andhra pradesh",
+            "andhra",
+            "andhrapradesh",
+            "andhra-pradesh",
+            "ap"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Hospital beds - Mumbai",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/3?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=60851aa4147ccb4db695e1bd",
+        "tags": [
+            "mumbai",
+            "maharashtra"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "ICU & ventilator - Mumbai",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/3?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=60851aa4147ccb4db695e1bb",
+        "tags": [
+            "mumbai",
+            "maharashtra"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Covid Beds - Delhi",
+        "link": "https://coronabeds.jantasamvad.org/beds.html",
+        "tags": [
+            "delhi",
+            "ncr",
+            "delhincr",
+            "delhi-ncr"
+        ],
+        "type": [
+            "beds"
+        ]
+    },
+    {
+        "title": "Covid-19 - Delhi",
+        "link": "https://coviddelhi.com/",
+        "tags": [
+            "delhi",
+            "ncr",
+            "delhincr",
+            "delhi-ncr"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 help - Lucknow",
+        "link": "https://covidhelplucknow.wordpress.com/",
+        "tags": [
+            "lucknow",
+            "uttar pradesh",
+            "uttar-pradesh",
+            "uttarpradesh"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 help - Nagpur",
+        "link": "http://covidhelpnagpur.in/",
+        "tags": [
+            "nagpur",
+            "maharashtra"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Ahmedabad Covid-19 info",
+        "link": "https://covidamd.com/",
+        "tags": [
+            "ahmedabad",
+            "ahmeda",
+            "gujarat",
+            "guj"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Resources - Agra",
+        "link": "https://docs.google.com/spreadsheets/d/1i96xLEbkH72Z3HobmMOdNiSYBIHYBgZlPcBs0xEaOSo/edit#gid=0",
+        "tags": [
+            "agra",
+            "uttar pradesh",
+            "uttarpradesh",
+            "uttar-pradesh"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Corona safe",
+        "link": "https://bit.ly/3v80QOe",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Resources - Sprinklr",
+        "link": "https://bit.ly/3vfYI6Z",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - Pune",
+        "link": "https://covidpune.com/",
+        "tags": [
+            "pune",
+            "maharashtra"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Resources (region-based)",
+        "link": "https://bit.ly/3dK9DjA",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 India collated verified data",
+        "link": "https://bit.ly/3sO2kvB",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - Beed",
+        "link": "https://covidbeed.com/",
+        "tags": [
+            "beed",
+            "maharashtra"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Resources - Hyderabad",
+        "link": "https://hydcovidresources.com/",
+        "tags": [
+            "hyd",
+            "hyderabad",
+            "telangana"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Verified resources database - Covid fighters",
+        "link": "https://bit.ly/3gC9T5N",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Help Database",
+        "link": "https://drive.google.com/drive/folders/1y8fjrbdGEGmcStkNE_Jf5sNRaDCY4zRA",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 Help - Glideapp",
+        "link": "https://covidhelp.glideapp.io/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Ummed.live",
+        "link": "http://www.umeed.live/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid win",
+        "link": "https://covidwin.in/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid19-twitter-search",
+        "link": "https://covid19-twitter.in/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid19 help (Twitter search + reddit threads)",
+        "link": "https://help-covid19.netlify.app/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Corona volunteers",
+        "link": "https://corona-volunteers.org/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 resources",
+        "link": "https://covidresources.in/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covinex - Testing requirements and tracking system",
+        "link": "https://covinex.netlify.app/home",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Instagram guide & covid resources (Uncut team)",
+        "link": "https://www.instagram.com/theuncutteam/guide/covid-19-resources-guide/18156211624182096/?igshid=5q7cik10mdsy",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid aid resources - Instagram page",
+        "link": "https://www.instagram.com/covidaidresources/?igshid=1mehlndvdjby0",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - Gandhinagar",
+        "link": "https://covidgandhinagar.com/",
+        "tags": [
+            "gandhinagar",
+            "gandhi nagar",
+            "gandhi-nagar",
+            "gujarat",
+            "guj"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - Jamshedpur",
+        "link": "https://jamshedpurguru.in/coveasy/",
+        "tags": [
+            "jamshedpur",
+            "jamshed pur",
+            "jamshed-pur",
+            "jamshed",
+            "jharkhand"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - Nashik",
+        "link": "https://covidnashik.com/",
+        "tags": [
+            "nashik",
+            "nasik",
+            "maharashtra"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - TamilNadu",
+        "link": "https://covidtnadu.com/",
+        "tags": [
+            "tamilnadu",
+            "tamil nadu",
+            "tamil-nadu",
+            "tamil",
+            "tn"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid tools",
+        "link": "https://covidtools.in/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid fight club",
+        "link": "https://www.covidfightclub.org/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "All india Covid-19 helpline",
+        "link": "https://docs.google.com/document/u/1/d/16WeMKah7RXoB1gnqa9YXVTuWM4TR6hY9Qys48Pf8mCc/mobilebasic",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Stop corona - TamilNadu",
+        "link": "https://stopcorona.tn.gov.in/",
+        "tags": [
+            "tamilnadu",
+            "tamil nadu",
+            "tamil-nadu",
+            "tn",
+            "tamil"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covidbangalore.support (Instagram)",
+        "link": "https://www.instagram.com/covidbangalore.support/",
+        "tags": [
+            "karnataka",
+            "karnatak",
+            "bangalore",
+            "bengaluru"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 resources - Bangalore",
+        "link": "https://oxygenblr.in/",
+        "tags": [
+            "karnataka",
+            "karnatak",
+            "bangalore",
+            "bengaluru"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 resources - Kolkata",
+        "link": "https://docs.google.com/spreadsheets/u/0/d/1dy1DYjGb15bijab4vVAUyrdtw14va32NgWJqlo_2rcU/htmlview",
+        "tags": [
+            "west bengal",
+            "west-bengal",
+            "westbengal",
+            "bengal",
+            "kolkata",
+            "calcutta"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - RTBot",
+        "link": "https://twitter.com/covidrtbot",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid India Twitter Resources",
+        "link": "https://covidresources.vercel.app/",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Pune Covid - links",
+        "link": "https://linktr.ee/punecovid",
+        "tags": [
+            "pune",
+            "maharashtra"
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "ICLU - India compiled list",
+        "link": "https://linktr.ee/shivansh2611",
+        "tags": [
+            "panindia",
+            "pan india",
+            "pan-india",
+            "india",
+            ""
+        ],
+        "type": [
+            "central"
+        ]
+    },
+    {
+        "title": "Covid-19 - meals for india",
+        "link": "https://docs.google.com/spreadsheets/u/1/d/1wu80sP5tq2k9bfxjuzUfRORxPDf07gUALfLMrOv-YEI/htmlview",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "meal"
+        ]
+    },
+    {
+        "title": "Food and civil supplies - Maharashtra",
+        "link": "http://mahaepos.gov.in/Eatery_plate_limit_abstarct.jsp",
+        "tags": [
+            "maharashtra",
+            "ahmadnagar",
+            "beed",
+            "akola",
+            "amravati",
+            "parel",
+            "aurangabad",
+            "bhandara",
+            "nagpur",
+            "kolhapur"
+        ],
+        "type": [
+            "meal"
+        ]
+    },
+    {
+        "title": "Free food - Ludhiana (Model Town and nearby, Place order before 11:00 AM)",
+        "link": "tel:7009719133",
+        "tags": [
+            "punjab",
+            "ludhiana",
+            "ldh"
+        ],
+        "type": [
+            "meal"
+        ]
+    },
+    {
+        "title": "Covid-19 resources - Bangalore",
+        "link": "https://oxygenblr.in/",
+        "tags": [
+            "karnataka",
+            "karnatak",
+            "bangalore",
+            "bengaluru"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Hemkunt foundation - Oxygen cylinders",
+        "link": "https://hemkuntfoundation.com/oxygen-cylinder/",
+        "tags": [
+            "mumbai",
+            "maharashtra",
+            ""
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Oxygen cylinders - Lucknow",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/25?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=608520f9039ec95a0fda7f08",
+        "tags": [
+            "lucknow",
+            "uttar pradesh",
+            "uttarpradesh",
+            "up",
+            "uttar-pradesh"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Remdesivir Distributors (pdf) - major states",
+        "link": "https://drive.google.com/file/d/1GG4GLuXzz_H9Q-gnEPkGEPeWQDdvrEDY/view",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Ready to fight - Covid",
+        "link": "https://readytofightcovid.in/",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Covid Pune - Remdesivir ",
+        "link": "https://covidpune.com/remdesivir",
+        "tags": [
+            "pune",
+            "maharashtra"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Remdesivir distributors - cipla",
+        "link": "https://www.cipla.com/sites/default/files/Remdesivir-Distributor-List.pdf",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Tocilizumab distributors - cipla",
+        "link": "https://www.cipla.com/sites/default/files/Tocilizumab-Distributor-List.pdf",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Remdesivir & Tocilizumab - Lucknow",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/12?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=6085200c039ec95a0fda5477",
+        "tags": [
+            "lucknow",
+            "uttarpradesh",
+            "uttar-pradesh",
+            "uttar pradesh",
+            "up"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Remdesivir & Tocilizumab - Mumbai",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/3?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=60851aa4147ccb4db695e1b3",
+        "tags": [
+            "mumbai",
+            "maharashtra"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Fabiflu & Favipiravir - Mumbai",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/3?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=60851aa4147ccb4db695e1b9",
+        "tags": [
+            "mumbai",
+            "maharashtra"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Remdesivir & Tocilizumab - Gurgaon",
+        "link": "https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/5?id=DASHBOARD_601b9e214c7a6b689d76f493&widgetId=60851f2f039ec95a0fda314c",
+        "tags": [
+            "gurgaon",
+            "delhi"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Dedicated Covid-19 hospitals - Maharashtra",
+        "link": "https://echs.gov.in/img/COVID-19/HOSPITAL%20LABS/HOS%20PUNE.pdf",
+        "tags": [
+            "maharashtra",
+            "pune",
+            "beed",
+            "ahmednagar",
+            "aurangabad",
+            "solapur",
+            "satara",
+            "nanded",
+            "nashik",
+            "nasik"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Oxygen - Chandigarh LinkedIn post",
+        "link": "https://www.linkedin.com/posts/simarpreethsingh_oxygen-community-peoplefirst-activity-6792322902432731136-aAkY",
+        "tags": [
+            "chandigarh",
+            "punjab",
+            "haryana"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "Ambulance service - Get help now",
+        "link": "https://www.gethelpnow.in/#/",
+        "tags": [
+            "mumbai",
+            "bomabay",
+            "delhi",
+            "maharashtra",
+            "bangalore",
+            "bengaluru",
+            "karnataka",
+            "karnatak",
+            "pune"
+        ],
+        "type": [
+            "medicine"
+        ]
+    },
+    {
+        "title": "MyGov - Covid-19",
+        "link": "https://www.mygov.in/covid-19/",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "news"
+        ]
+    },
+    {
+        "title": "How to wear mask properly - NDTV",
+        "link": "https://www.youtube.com/watch?v=SeV5YL2UMLs",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "news"
+        ]
+    },
+    {
+        "title": "Covid facilities - helpcare",
+        "link": "https://drive.google.com/file/d/17xsLQPkAc3AgJQqf5903BxP_Q7ICbjgl/view",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "news"
+        ]
+    },
+    {
+        "title": "Twitter-search-advanced",
+        "link": "https://twitter.com/search-advanced",
+        "tags": [
+            ""
+        ],
+        "type": [
+            "news"
+        ]
+    }
+]
